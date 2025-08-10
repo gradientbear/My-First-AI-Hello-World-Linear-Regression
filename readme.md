@@ -5,6 +5,11 @@ A detailed explanation of this approach can be found in [this article](https://s
 
 ---
 
+![gradient_descent_example](https://github.com/user-attachments/assets/e45240da-f85c-4ec5-a2f8-af5c73dad905)
+
+
+---
+
 ## 📌 Overview
 
 The goal is to fit a straight line to a set of data points by determining the optimal values for:
@@ -24,9 +29,13 @@ Gradient descent is used to iteratively adjust `m` and `b` to minimize the predi
 Install dependencies:
 ```bash
 pip install numpy
+```
 
+---
 
-## result
+## Requirements
 
-Starting gradient descent at b = 0, m = 0, error = 5565.107834483211
+Starting gradient descent at b = 0, m = 0, error = 5565.107834483211  
 After 1000 iterations b = 0.08893651993741346, m = 1.4777440851894448, error = 112.61481011613473
+
+
